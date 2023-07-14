@@ -1,0 +1,47 @@
+.black-text-shadow {
+   text-shadow: 1px -1px white, 3px 2px #33333390}
+   h4.under {
+      text-decoration: underline;
+   }
+  .caja {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 18px;
+   font-weight: 400;
+   color: black;
+   background-color: #dab9dc;
+   border-radius: 35px 0px 35px 0px;
+   -moz-border-radius: 35px 0px 35px 0px;
+   -webkit-border-radius: 35px 0px 35px 0px ;
+   border: 4px solid #cdb4db ;
+}
+.videos {
+   padding: 10px;
+   width: 70%;
+   height: 60%;
+   border: 35px;
+}
+.cajita {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 18px;
+   font-weight: 400;
+   color:black;
+   background-color:#ffc8dd;
+   border-radius: 35px 0px 35px 0px;
+   -moz-border-radius: 35px 0px 35px 0px;
+   -webkit-border-radius: 35px 0px 35px 0px ;
+   border: 4px solid #ffbcd5;
+}
+.cajas {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 18px;
+   font-weight: 390;
+   color: black;
+   background-color: #bde0fe;
+   border-radius: 35px 0px 35px 0px;
+   -moz-border-radius: 35px 0px 35px 0px;
+   -webkit-border-radius: 35px 0px 35px 0px ;
+   border: 4px solid #b0d9ff;
+}
+.fotito  {
+   border-radius: 50%;
+}
